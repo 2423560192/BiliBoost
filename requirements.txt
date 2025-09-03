@@ -1,0 +1,28 @@
+# HTTP请求库
+requests>=2.28.0
+
+# 图像处理库
+Pillow>=9.0.0
+
+# 加密算法库
+pycryptodome>=3.15.0
+
+# 动态插桩工具（用于Hook脚本）
+frida>=15.0.0
+
+# 并发处理（Python内置，但列出版本要求）
+# concurrent.futures - Python 3.7+
+
+# GUI界面（Python内置）
+# tkinter - Python 3.7+
+
+# 其他标准库（Python内置）
+# hashlib, random, time, threading, json, re, os, logging
+# base64, binascii, string, uuid, datetime, urllib.parse
+# io, threading
+
+# 开发依赖（可选）
+# pytest>=7.0.0          # 单元测试
+# black>=22.0.0          # 代码格式化
+# flake8>=5.0.0          # 代码检查
+# mypy>=0.991            # 类型检查
