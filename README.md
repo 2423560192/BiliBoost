@@ -19,6 +19,8 @@
 - **多线程处理**：支持并发请求，提高效率
 - **图形化界面**：基于Tkinter的现代化GUI界面
 - **实时进度显示**：显示操作进度和状态信息
+- **彩色日志系统**：支持控制台彩色输出和文件日志记录
+- **配置化管理**：支持环境变量和配置文件管理
 
 ## 📋 系统要求
 
@@ -42,7 +44,20 @@ cd bilibili_video
 pip install -r requirements.txt
 ```
 
-### 3. 运行程序
+### 3. 配置环境
+
+```bash
+# 复制配置文件
+cp config/config.example.py config/config.py
+
+# 编辑配置文件，设置你的参数
+# 或者设置环境变量
+export LOG_LEVEL=20
+export LOG_PRESET=development
+export PROXY_ENABLED=true
+```
+
+### 4. 运行程序
 
 ```bash
 python main.py
@@ -84,9 +99,10 @@ python main.py
 
 ### 高级功能
 
-- **代理设置**：在 `core/proxy.py` 中配置代理IP服务
-- **参数调优**：在 `core/parms.py` 中调整各种参数生成逻辑
+- **代理设置**：在 `config/config.py` 中配置代理IP服务
+- **参数调优**：在 `config/config.py` 中调整各种参数生成逻辑
 - **Hook脚本**：使用 `hook/` 目录下的Frida脚本进行动态分析
+- **日志管理**：支持多种日志级别和输出方式
 
 ## 🏗️ 项目结构
 
@@ -95,41 +111,127 @@ bilibili_video/
 ├── main.py              # 主程序入口，GUI界面
 ├── bilibli.py           # 核心爬虫逻辑
 ├── video.py             # 视频信息处理
+├── config/              # 配置文件目录
+│   ├── config.py        # 主配置文件
+│   └── config.example.py # 配置示例文件
 ├── core/                # 核心功能模块
 │   ├── parms.py         # 参数生成模块
 │   ├── proxy.py         # 代理服务模块
 │   └── __init__.py
 ├── utils/               # 工具函数
+│   ├── logger.py        # 彩色日志配置类
 │   ├── util.py          # 通用工具函数
 │   └── __init__.py
 ├── hook/                # Frida Hook脚本
 │   ├── hook-*.py        # 各种Hook脚本
 │   └── hook-onload.js   # JavaScript Hook脚本
+├── logs/                # 日志文件目录
+├── cache/               # 缓存文件目录
+├── backups/             # 备份文件目录
 └── requirements.txt      # 依赖包列表
 ```
 
 ## 🔧 配置说明
 
-### 代理配置
+### 日志配置
 
-在 `core/proxy.py` 中配置代理IP服务：
+支持三种预设配置：
 
 ```python
-class IpService:
-    def get_ip(self):
-        # 返回代理IP地址
-        return "http://your-proxy-ip:port"
+from utils.logger import get_logger
+
+# 开发环境 - 彩色输出，控制台+文件
+logger = get_logger(preset="development")
+
+# 生产环境 - 无彩色，仅文件输出
+logger = get_logger(preset="production")
+
+# 测试环境 - 彩色输出，仅控制台
+logger = get_logger(preset="testing")
+```
+
+### 环境变量配置
+
+```bash
+# 日志配置
+export LOG_LEVEL=20          # 日志级别 (10=DEBUG, 20=INFO, 30=WARNING, 40=ERROR, 50=CRITICAL)
+export LOG_PRESET=development # 日志预设 (development, production, testing)
+
+# 代理配置
+export PROXY_ENABLED=true    # 是否启用代理
+
+# B站API配置
+export BILIBILI_APP_KEY=your_app_key
+export BILIBILI_APP_SECRET=your_app_secret
+
+# 请求配置
+export REQUEST_TIMEOUT=30    # 请求超时时间
+```
+
+### 代理配置
+
+在 `config/config.py` 中配置代理IP服务：
+
+```python
+PROXY_CONFIG = {
+    'enabled': True,
+    'api_url': 'http://your-proxy-api-url',
+    'timeout': 10,
+    'retry_times': 3,
+    'rotation_interval': 60,
+    'max_failures': 3,
+}
 ```
 
 ### 设备参数配置
 
-在 `core/parms.py` 中调整设备型号列表和其他参数：
+在 `config/config.py` 中调整设备型号列表和其他参数：
 
 ```python
-models = [
+DEVICE_MODELS = [
     "Pixel 7", "Redmi K50", "ONEPLUS 9 Pro",
     # 添加更多设备型号
 ]
+```
+
+## 📊 日志系统
+
+### 日志级别
+
+- **DEBUG (10)**: 详细的调试信息
+- **INFO (20)**: 一般信息
+- **WARNING (30)**: 警告信息
+- **ERROR (40)**: 错误信息
+- **CRITICAL (50)**: 严重错误
+
+### 日志输出
+
+- **控制台输出**: 支持彩色显示，便于开发调试
+- **文件输出**: 自动轮转，避免单个文件过大
+- **日志轮转**: 默认10MB一个文件，保留5个备份
+
+### 使用示例
+
+```python
+from utils.logger import get_logger
+
+# 获取日志器
+logger = get_logger()
+
+# 记录不同级别的日志
+logger.debug("调试信息")
+logger.info("普通信息")
+logger.warning("警告信息")
+logger.error("错误信息")
+logger.critical("严重错误")
+
+# 异常处理
+try:
+    # 你的代码
+    pass
+except Exception as e:
+    logger.error(f"操作失败: {e}")
+    logger.exception("详细错误堆栈")
 ```
 
 ## ⚡ 性能优化
@@ -138,6 +240,7 @@ models = [
 - 智能参数缓存，避免重复计算
 - 代理IP轮换，提高成功率
 - 请求间隔随机化，模拟真实用户行为
+- 日志异步写入，提高性能
 
 ## 🚨 注意事项
 
@@ -145,6 +248,7 @@ models = [
 2. **频率控制**：建议控制请求频率，避免被检测
 3. **代理质量**：使用高质量的代理IP，提高成功率
 4. **参数更新**：B站可能会更新API参数，需要及时调整代码
+5. **日志管理**：定期清理日志文件，避免占用过多磁盘空间
 
 ## 🐛 常见问题
 
@@ -164,7 +268,22 @@ A: 检查代理IP是否可用，参数是否正确
 
 A: 降低请求频率，更换代理IP，更新参数生成逻辑
 
+### Q: 日志文件过大
+
+A: 调整日志轮转配置，或定期清理日志文件
+
+### Q: 控制台没有彩色输出
+
+A: 检查终端是否支持ANSI颜色，或设置 `use_color=False`
+
 ## 📝 更新日志
+
+### v1.1.0
+
+- 新增彩色日志系统
+- 支持多种日志预设配置
+- 配置文件重构，支持环境变量
+- 日志文件自动轮转
 
 ### v1.0.0
 
@@ -177,6 +296,14 @@ A: 降低请求频率，更换代理IP，更新参数生成逻辑
 
 欢迎提交Issue和Pull Request来改进项目！
 
+### 贡献方式
+
+1. Fork 项目
+2. 创建特性分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开 Pull Request
+
 ## 📄 许可证
 
 本项目仅供学习和研究使用，请勿用于商业用途。
@@ -187,6 +314,10 @@ A: 降低请求频率，更换代理IP，更新参数生成逻辑
 
 - 提交GitHub Issue
 - 发送邮件至：[2480419172@qq.com]
+
+## 🙏 致谢
+
+感谢所有为这个项目做出贡献的开发者！
 
 ---
 

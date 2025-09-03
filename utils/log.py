@@ -192,22 +192,6 @@ class LoggerConfig:
         """获取日志器实例"""
         return self.logger
 
-    def log_startup(self):
-        """记录启动信息"""
-        self.logger.info("=" * 60)
-        self.logger.info(f"🚀 {self.name} 服务启动")
-        self.logger.info(f"📅 启动时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        self.logger.info(f"�� 日志级别: {logging.getLevelName(self.level)}")
-        self.logger.info(f"📁 日志目录: {os.path.abspath(self.log_dir)}")
-        self.logger.info(f"🎨 彩色输出: {'启用' if self.use_color else '禁用'}")
-        self.logger.info("=" * 60)
-
-    def log_shutdown(self):
-        """记录关闭信息"""
-        self.logger.info("=" * 60)
-        self.logger.info(f"🛑 {self.name} 服务关闭")
-        self.logger.info(f"📅 关闭时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
-        self.logger.info("=" * 60)
 
 
 # 预定义的日志配置
