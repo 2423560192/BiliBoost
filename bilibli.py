@@ -8,13 +8,13 @@ from datetime import datetime
 
 import requests
 
+from config.config import get_request_config
 from core.proxy import IpService
 from core.parms import get_xw, get_buvid, get_device_id, get_fp_local, get_session_id, get_aid_cid, \
     generate_did, get_sign, aes_encrypt
-from utils.util import logger
+from utils.log import logger
 
-
-
+user_agent = get_request_config()['user_agent']
 
 class BilibiliSpider:
     def __init__(self, url):
@@ -33,7 +33,7 @@ class BilibiliSpider:
             "session_id": session_id,
             "env": "prod",
             "app-key": "android",
-            "user-agent": "Mozilla/5.0 BiliDroid/6.24.0 (bbcallen@gmail.com) os/android model/Pixel 2 XL mobi_app/android build/6240300 channel/xxl_gdt_wm_253 innerVer/6240300 osVer/11 network/2",
+            "user-agent": user_agent,
             "bili-bridge-engine": "cronet",
             "content-type": "application/octet-stream"  # 需要修改
         }
@@ -253,9 +253,6 @@ class BilibiliSpider:
         logger.info("-----------------------------------------")
 
 
-# if __name__ == '__main__':
-#     spider = BilibiliSpider()
-#     spider.main()
 def run_bili(url):
     bili = BilibiliSpider(url)
     bili.run()

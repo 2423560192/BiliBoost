@@ -1,11 +1,12 @@
+import io
 import tkinter as tk
-from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 from tkinter import ttk, messagebox
+from concurrent.futures import ThreadPoolExecutor, ProcessPoolExecutor
 import threading
 import time
+
 import requests
 from PIL import Image, ImageTk
-import io
 
 import video
 from bilibli import run_bili
@@ -38,7 +39,7 @@ class BiliFakePlayApp:
         # 播放量
         row2 = tk.Frame(input_frame, bg="#ffffff")
         row2.pack(fill="x", pady=5, padx=10)
-        tk.Label(row2, text="bilibili_video：", bg="#ffffff", font=("Microsoft YaHei", 11)).pack(side="left")
+        tk.Label(row2, text="播放数：", bg="#ffffff", font=("Microsoft YaHei", 11)).pack(side="left")
         self.count_entry = tk.Entry(row2, width=15, font=("Microsoft YaHei", 10),
                                     relief="flat", bg="#f8f9fa",
                                     highlightthickness=1, highlightcolor="#00A1D6")

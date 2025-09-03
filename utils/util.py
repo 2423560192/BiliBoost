@@ -1,5 +1,8 @@
 import os
 import logging
+import base64
+
+from Crypto.Cipher import AES
 
 
 def query_to_dict(s):
@@ -12,13 +15,6 @@ def header_str_to_dict(header_str):
     res = res[1:len(res) - 1]
     d = {item.split('\t')[0]: item.split('\t')[1] for item in res}
     return d
-
-
-# aes 加密
-###aes的加密
-# aes加密方法  pip3 install pycryptodome
-from Crypto.Cipher import AES
-import base64
 
 
 def pad_data(data):
@@ -40,7 +36,6 @@ def encrypt_data(password):
     cipher = AES.new(key, AES.MODE_CBC, iv)
     # 填充数据
     padded_data = pad_data(password.encode('utf-8'))
-    print(padded_data)
     # 加密数据
     encrypted_data = cipher.encrypt(padded_data)
     return base64.b64encode(encrypted_data).decode('utf-8')

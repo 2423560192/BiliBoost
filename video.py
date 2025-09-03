@@ -2,12 +2,13 @@ import json
 import re
 
 import requests
-from utils.util import logger
+
+from config.config import get_request_config
+from utils.log import logger
 
 
 def get_response(url):
     """获取响应"""
-
     headers = {
         'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
         'accept-language': 'zh-CN,zh;q=0.9',
@@ -24,8 +25,9 @@ def get_response(url):
         'upgrade-insecure-requests': '1',
         'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36',
     }
-
-    response = requests.get('https://www.bilibili.com/video/BV1BSevzvEVA/', headers=headers)
+    buvid = url.split('/')[-1] or url.split('/')[-2]
+    logger.info("buvid:{}".format(buvid))
+    response = requests.get(f'https://www.bilibili.com/video/{buvid}/', headers=headers)
 
     return response.text
 
@@ -65,7 +67,3 @@ def main(url):
     # 获取视频详细数据
     detail_data = get_detail_data(video_data)
     return detail_data
-
-# if __name__ == '__main__':
-#     url = 'bilibili.com/video/BV1BSevzvEVA/'
-#     main(url)

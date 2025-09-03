@@ -7,8 +7,6 @@ import hashlib
 import os
 import random
 import string
-import time
-from urllib import parse
 import uuid
 from datetime import datetime
 
@@ -16,29 +14,10 @@ import requests
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
 
-models = [
-    "Pixel 7", "Redmi K50", "ONEPLUS 9 Pro", "Vivo V23", "MI 12X",
-    "SM-G998B", "Xiaomi 11T", "OPPO Reno8", "Pixel 7 Pro", "Lenovo Legion Y90",
-    "Realme GT Neo3", "MI 11 Ultra", "Redmi Note 11", "ONEPLUS A6013", "VOG-L29",
-    "P50 Pro", "OPPO Find X5", "Vivo X80", "Pixel 6a", "Redmi K40",
-    "SM-G991U", "Xiaomi 12S", "Realme GT", "ONEPLUS 8T", "Vivo Y76",
-    "OPPO Reno7", "MI 10 Pro", "Pixel 5", "Lenovo K12 Pro", "Redmi Note 10",
-    "SM-G990F", "Xiaomi 11 Lite", "OPPO Find X3", "Vivo V21", "ONEPLUS 7T",
-    "MI 9T", "Pixel 4 XL", "Realme X50 Pro", "Redmi K30", "SM-G988B",
-    "Xiaomi Mi Mix 4", "OPPO Reno6", "Vivo X60", "Lenovo Legion 2 Pro", "ONEPLUS Nord 2",
-    "Pixel 3a", "MI 8 Lite", "Redmi Note 9", "Realme 7 Pro", "SM-G985F",
-    "Xiaomi Poco F3", "Pixel 6 Pro", "Redmi K20", "ONEPLUS 6T", "Vivo V19",
-    "MI 11", "SM-G960F", "Xiaomi Mi 10", "OPPO Reno4", "Vivo X50",
-    "Realme 6", "Lenovo Z6", "Pixel 5a", "Redmi Note 8", "ONEPLUS 5T",
-    "MI 10T", "SM-G973F", "Xiaomi Mi 9", "OPPO Reno3", "Vivo Y20",
-    "Realme X3", "Lenovo K10", "Pixel 4a", "Redmi Note 7", "ONEPLUS 6",
-    "MI 9 SE", "SM-G970F", "Xiaomi Mi 8", "OPPO Reno2", "Vivo V17",
-    "Realme 5 Pro", "Lenovo Z5", "Pixel 3 XL", "Redmi K30 Pro", "ONEPLUS 7",
-    "MI 8 Pro", "SM-G965F", "Xiaomi Mi 8 Lite", "OPPO Reno", "Vivo Y17",
-    "Realme 3 Pro", "Lenovo K8 Plus", "Pixel 2 XL", "Redmi Note 6 Pro", "ONEPLUS 5",
-    "MI 6X", "SM-G955F", "Xiaomi Mi 6", "OPPO F11 Pro", "Vivo V15",
-    "Realme 2 Pro", "Lenovo Z2 Plus", "Pixel 2", "Redmi Note 5", "ONEPLUS 3T"
-]
+from config.config import get_device_models, get_request_config
+
+models = get_device_models()
+user_agent = get_request_config()['user_agent']
 
 
 def e(str_input):
@@ -190,7 +169,7 @@ def get_aid_cid(exec_url):
     session = requests.Session()
     bvid = exec_url.rsplit('/')[-1] or exec_url.rsplit('/')[-2]
     header = {
-        'User-Agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36'
+        'User-Agent': user_agent
     }
     res = session.get(
         url="https://api.bilibili.com/x/player/pagelist?bvid={}&jsonp=jsonp".format(bvid),

@@ -3,10 +3,12 @@ import random
 
 import requests
 
+from config.config import get_proxy_config
+
 
 class IpService:
     def __init__(self):
-        self.url = 'http://api2.xkdaili.com/tools/XApi.ashx?apikey=XK69862370B1CA650629&qty=100&format=txt&split=0&sign=87a269171ead05ba5185eba8eb5a162a&time=3'
+        self.url = get_proxy_config()['api_url']
 
     def get_ip(self):
         """获取ip"""
