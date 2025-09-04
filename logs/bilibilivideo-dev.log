@@ -1,0 +1,180 @@
+2025-09-03 20:49:43,740 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:49:44,508 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:49:44,509 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:49:44,509 INFO     [video.py:55] 播放量： 930
+2025-09-03 20:49:44,510 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:49:53,971 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:49:54,628 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:49:54,631 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:49:54,631 INFO     [video.py:55] 播放量： 930
+2025-09-03 20:49:54,631 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:49:54,927 INFO     [bilibli.py:43] 当前采用ip：49.66.126.167:40036
+2025-09-03 20:49:54,928 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:49:55,321 INFO     [bilibli.py:245] 当前播放量: 930
+2025-09-03 20:49:55,321 INFO     [bilibli.py:55] did: LxotFFBgU2EjFFVgHGAcaA5rEyZQJ0UoRw
+2025-09-03 20:49:55,321 INFO     [bilibli.py:79] sign: 2fd4c6458d67ebbdff9e7774cac9d3a27d197d6ff0980e51acc0f731fe34a172
+2025-09-03 20:49:55,328 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@\x8f8Ru\xb4X`\xd9\xf7gV\xdf\x89\x03\'\x03\xdcgBmh"\xea|\xa2\x01\x17h|\x1b8\x1a\x89S\x0f\xf8W\xcf*\x08\x05\xdc|i\x16\xb3/J\nv\x14:nO\xaen$\xb3nK\xd7\x1a\x91\xbd\x16\xf8+$]\xc2tKo%\xc4$\x17\x7fX\x87\xdb\xa6\xd8\x843\xed\x08\x12L\x9b(X\x90@]\xad\xed\xc5Y\xea\xdf\x9f\xdc`\x96\xa6yAb\xe4\xcf\xfcqtG?\xf2\xa2\xc6\xd8\xfd\x9f\xc5\xbd\xfc\xf1\xd5\x92\xa2\x8a\xf1b\xda\xdb\x83\x95n\x8b\xbd\xdbV\xd5R\x0b\xcd\xad\x99l\xffJ\x16\xa4\xde\x9b{\x13\xdf\xd8x\xc4b*\x19De\xbd\xac\xeb\x8a*y\xb7\xf3\xb2]&A\xa7\x04]\xb9H\xccuJ\x92\xcf_\xb7&\x00;X\xdc\xdep.h\x96\x0f\xa9I\x8d\x96\x14\xf5=\xfbg\x0b\xe1\xaa\x9a?I\\\x8725\xe4\x01\xfb\xf5\'\x98\xc7>\xcbUg\x02f\xcb\x19<\x9aq\xaa/\xf7e7#\xf5\xa3\x86\x96\x1f\xd1\xbet\x0f\x18\x11$\xd5\x8fJ/q\x14\xb8\x04M\xdd\x83\xa9\xe5\x9d\xe816\x81\xbd\xee\xcfv\x83\x90\xacl2,\xc6\xdd\x88Z\xff'
+2025-09-03 20:49:56,291 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:49:57,001 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:49:57,001 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:49:57,001 INFO     [video.py:55] 播放量： 930
+2025-09-03 20:49:57,003 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:49:57,268 INFO     [bilibli.py:43] 当前采用ip：183.130.218.150:40045
+2025-09-03 20:49:57,268 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:49:57,677 INFO     [bilibli.py:245] 当前播放量: 930
+2025-09-03 20:49:57,677 INFO     [bilibli.py:55] did: WmtfaClqKRsjESQTbxNvFiRQZ1QkHWUOZg
+2025-09-03 20:49:57,678 INFO     [bilibli.py:79] sign: 31ce32c5e74d47bf8ccd61828e6b0c0477f8c247925015acca27b2e9613eb4a8
+2025-09-03 20:49:57,679 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@\xc0z\xfd\x17\xc8\xf5v\xeb\xc8\xd3\xfe\xe4\xb9\x91\xbb\xfc\xa7\xa9\xfb\xdd\xfb\xf5\\3\x99z2\xdf\x1b\x9f\xfat\xe6\x14\x8b\xf0l\x9b_\xf8\x1buQ\xc7\x90p=\t\xfe\x02\xd5\xf2\x9d\xb6C\xaf\x93\xa2\xf6\xcb\xe0\xf7\x9f\x12\xdbUvb\xf9\rT\xb8\xaa?\x07g\x9bS\xea\xb6\x845x\xe6,3\xcd\xd5\xfc\x11\xac\x96:`\x83:\xc2k\'N\x07\xb7w\x8c\xc4_A\x06\xfd\xd3o\xfd \x9e1\x1c\x0e\xe6\xdc\xf9\x85K\t\x86\xf1\xae\xfdm\x91\xb5\x82\x84\x00\xf8M\x17g\xf0?V\xc2j3Gl\x94\xca\xc1\xe8\xb3\x8d\xd3t\xd3)\xf8\x00P\xb8\xbaD\x01\xce\x19\xad{4&\xc4\x0f\x98\xdb\xd7\x01\xb3\xa8\xac\xab\x0e\xa2[Z\xd1f\x89y\xaf\xa9N\xe0\xbd\xf5\x9c%&L\xcb(\xe3(u\xbf\x04\xff[\x91\xd69fe\x1e\x12$\x99\x85\xbf@\x99\xb8\xc1N\xa1\xda\xeenFN\x99\x08\xf9\xd5CB\x88.\xf9\xba\x9e\x1cW\x9f8\xdc=*\xb2%\'!G\x95\x10\xecKm\xa5a\x88x\xb5\xb0e!C\xaa\x86T\xc7e\xb96\xaeo\x10e.\x162\xc2\xe4v\xdcI\\h\x9a\xcf\x98'
+2025-09-03 20:49:58,485 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:49:58,486 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:49:58,488 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756903797&type=3&user_status=0&video_duration=6
+2025-09-03 20:49:58,488 INFO     [bilibli.py:225] sign: f5d64c59b9d87a90367d8db0602170c1
+2025-09-03 20:49:58,796 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903798}}
+2025-09-03 20:49:58,797 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:49:59,149 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:49:59,150 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:49:59,151 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756903795&type=3&user_status=0&video_duration=6
+2025-09-03 20:49:59,152 INFO     [bilibli.py:225] sign: 87b6841d81bcc33c96957798f04496f4
+2025-09-03 20:49:59,385 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903799}}
+2025-09-03 20:49:59,386 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:50:00,780 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:50:01,462 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:50:01,463 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:50:01,463 INFO     [video.py:55] 播放量： 934
+2025-09-03 20:50:01,464 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:50:01,789 INFO     [bilibli.py:43] 当前采用ip：116.7.175.239:40009
+2025-09-03 20:50:01,791 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:50:02,121 INFO     [bilibli.py:245] 当前播放量: 934
+2025-09-03 20:50:02,122 INFO     [bilibli.py:55] did: XB9Zay8ZLB5cHyltEW0RaQs4QiVVZws9Sw
+2025-09-03 20:50:02,124 INFO     [bilibli.py:79] sign: a12f26acce45965c3f395ef5fe790bac7d445e634d405410f50ad554cf4b94d1
+2025-09-03 20:50:02,127 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@\xbdz\x94\xe9\xb2\xf4\n\x10d\x1b!\x9ap\xbd\x18\xeb<\xac\xb4ke\r\xc6:\xea\x84C\x88\x1c1\xae5\x91N\x9dD\x8b\xdf\x8ev\x16r\x98W\xec\xb5\xa9\xe9)i\xce\xa8(>@\xd1\xdd\xf8J9p\xec\x0f\\\x0b\xca\xc6\tYU3\x179\x1a\x91L\xb3\'}\xf2\xc8=\x80,\xef;c\xa5\x8e?\xbc&!`\x9d\xe8\xe3Y\x0e\x06h\x1f-{\x080\x05\x0e\xbd\xdd\x8e\xc9\xd3S!\xe3\xf7\xccx&\xfc\x00\xa1\xd3\x910\xa8>\r\xfb\xf6\xfaY\x16O\x9b%\xda\xb9\x9ao\x11p\x19\x1dVE\xe9(\x82\xaa+\xc5kO\x0fr5\xc3}\xbc\xfdS\xf1n\xfe=\xc9Z\x01\xda\x05\x99\x87\x92\x9c\xc8\xfa\x83@\x17nS \x04?1\x8c\x1f3\xe0cS\x0e\x98\xe2p\x11\x04\x1b\xcc\x1d2\xda\xd6t\xfe\xb5\xce28\xfa\xe1\xc8\x94!\xe6 \x11o\xce\xdcg\xa5\x8d!\xdd\x00BvH\xaco8\x03\xf6\xfd\x1b\x9a7\x9b\x1b)\x15P\xa2a\x9d\xe2Tf7\xc9\x9a\xe28o\xad\xc8\xf3C\x92\xd7\x93\x93u\x03J\'\x0b\x07\xdes\xa48\xcezI\x852D\xedP8\xde| b'
+2025-09-03 20:50:03,022 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:50:03,023 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:50:03,024 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756903802&type=3&user_status=0&video_duration=6
+2025-09-03 20:50:03,025 INFO     [bilibli.py:225] sign: d419df0b37577dd8e7d03e68f6e4554d
+2025-09-03 20:50:03,345 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903803}}
+2025-09-03 20:50:03,345 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:50:07,390 INFO     [bilibli.py:215] s: actual_played_time=12&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=11&list_play_time=0&max_play_progress_time=11&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=12&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756903795&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=12&ts=1756903807&type=3&user_status=0&video_duration=6
+2025-09-03 20:50:07,391 INFO     [bilibli.py:225] sign: 8be72b320e4c50e8f4e8df7814778996
+2025-09-03 20:50:08,316 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903795}}
+2025-09-03 20:50:08,615 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:50:08,615 INFO     [bilibli.py:252] 当前播放量: 934
+2025-09-03 20:50:08,616 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:50:08,804 INFO     [bilibli.py:215] s: actual_played_time=11&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=10&list_play_time=0&max_play_progress_time=10&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=11&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756903797&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=11&ts=1756903808&type=3&user_status=0&video_duration=6
+2025-09-03 20:50:08,806 INFO     [bilibli.py:225] sign: 6af74be412d92f6b5e62cc336cc825f4
+2025-09-03 20:50:09,472 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903797}}
+2025-09-03 20:50:09,758 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:50:09,759 INFO     [bilibli.py:252] 当前播放量: 934
+2025-09-03 20:50:09,760 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:50:14,359 INFO     [bilibli.py:215] s: actual_played_time=12&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=11&list_play_time=0&max_play_progress_time=11&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=12&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756903802&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=12&ts=1756903814&type=3&user_status=0&video_duration=6
+2025-09-03 20:50:14,361 INFO     [bilibli.py:225] sign: f83a9b0df00baea5c9a283dfc551238d
+2025-09-03 20:50:14,875 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756903802}}
+2025-09-03 20:50:15,225 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:50:15,227 INFO     [bilibli.py:252] 当前播放量: 934
+2025-09-03 20:50:15,228 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:50:15,283 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:50:15,973 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:50:15,974 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:50:15,974 INFO     [video.py:55] 播放量： 934
+2025-09-03 20:50:15,975 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:54:53,900 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:54:54,588 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:54:54,589 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:54:54,591 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:54:54,592 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:02,154 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:02,817 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:02,818 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:02,818 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:55:02,818 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:03,734 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:03,785 INFO     [bilibli.py:43] 当前采用ip：175.165.145.3:40046
+2025-09-03 20:55:03,786 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:55:04,175 INFO     [bilibli.py:245] 当前播放量: 955
+2025-09-03 20:55:04,178 INFO     [bilibli.py:55] did: XG9YbStuWmtbaCofYx9jGmsTZA1pGy8aIw
+2025-09-03 20:55:04,179 INFO     [bilibli.py:79] sign: 5f5e4d667f51a9c31fa58f9da75be2a10909862d2aabadb90aaba5e61611e6ff
+2025-09-03 20:55:04,182 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@\xe9\xd4\xa1\xdc\xa5\xc2\xec\xed\xf3G\xea\x88I\xabqfn\x8b\xd6]\xe5@\x0e\x88j\x10\xac\x85F\x17#e\x8f\x0b\x10\xb8\xb8r\x9e\xb8\x07k\xc9\xc6\x7f\x80\x8c\xaf\xa6\xf0\xd9=\xe5\xe5\xe2\xcb\xd0v\xd8<\x16\xa1\xe2\xc0\x1eg\x04\xe5\x14C\x01\xcb\xe8j\xd2\xfaI\xe1\x10<\xbe\xc3\x95\x8exj\xef\'\x87YuE\xd7v$+\xca\xb5\r\x97%\xb4\x18\xc3\x06]\xac\xa50o<\x97\xf6\xb5q\xd0vS\x05e\xea \x12\x8dZ\x1fZ\t\t{\xb7\xa2(\xdfP\xd0\x15w0=NkUW\x16A\x00\x8d.\xd7|\xa1\xb4\x042v\x81\x19\x92E\xee\xc4\xc9\xfaJ\xf5\xdbF\n\xec>u\x16\xa2S\x10\xee\x94\xaa\x16\xb1\xf0\xa3\x12|\xcd\x81|\xb0E\xf2Hb\xea\xd0\x869}\x11\xf9\x83\x05\x85\xd8\x8aESp\x00ww\xbc,\x99\xec\xcc\x87w\xae\xf8\x18\\\xa3\x83c\x17\x18f\x93\xee7\x06B\xc9\x85\xf23\x91\xeci\xc9\x0f"\xd3\xf1\xf6;\xdd\x9eW\xabQ\xa4\x15\xd9\x11\xd1\xb7\xb8\x1bw\x9cb\\g\x05\x08\xfc\xc1\xf8\xb1\xf6[\xfa\xcb^\xec5\x18<\xc4\xa4\x08\xcf\x06f\x89\xa9'
+2025-09-03 20:55:04,428 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:04,428 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:04,428 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:55:04,428 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:04,763 INFO     [bilibli.py:43] 当前采用ip：59.62.106.54:40011
+2025-09-03 20:55:04,764 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:55:05,175 INFO     [bilibli.py:245] 当前播放量: 955
+2025-09-03 20:55:05,175 INFO     [bilibli.py:55] did: KxtaaS0eKxIkYVUUaBRoX2wWblo3Qi0cag
+2025-09-03 20:55:05,175 INFO     [bilibli.py:79] sign: 6ef10e5e9a8fa2aea578da5310900c7fd6b33cea336cdbf688918cb293db3994
+2025-09-03 20:55:05,178 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@M\x11\xb7\xcc\x03\'\x9c=\xe5\x95\xc3\xc2\x0bS\x88\xe8\xbd:\xce\xc5\xd7G\xad\x8f\xe0:\xab\x9cW\xd5P\x05\xb54\tW\n\x9b\xdbH\xc5I\x84aU\xac\xbe^(\xb0d\x0f\x97\x954y\x85h\xc1\xab.\xa6%WM\x1aA\x81\x7f;\x07\x06\xf1o\xec.K2\x0cd\xb3\xa2\xec)9\x0f\x91q\xd2\x86kL\xb6v\xeco\n\xfbW\xd5\t>\xcb\x1c\x9fM0\x1a!\xe1W(\x0e\xe7i\x1a\xf2-U\xc9\xf8\x9cH]\xec\xa5\xba{\xdf2\x8c\xe6\x91\xe3\xa1-Mm\xde\x96?\xd3d\xcbUu\xe4\xbf\xa5\xfb]X\x98\xe7 \x08\xc5\xff\x8f\xb5n5]2oj\x98SU\xbe#\xfd\x1a\x07\xae9\x8a\xad\xcc\x86\x88\x01\xde\x8b\xda\xc3n\x7fa{T\xfe\xc1\xe6!\xe1\x93\xef\xf6\x83\x12\x0f\xa7\xd2\x8a\xd3_\xf6G\xe0j\t\x89\xe5\xa8\xd7w@\xf8D\n\xb5\x17\xc8q\x97\x8c\x91\xd1!2\xe9\r\x9c\t\t5\x0b\no\x98\x91\x08\x9f\x19b\'or\xb0\x9cn\xc1>\xe2\x993\xdd\x1f\x7f\x02\xe6\x7fR~e+\xaeH`\x08\x8e\x1a\'\x15L 5\xc9\xf5\x7fx\xe0\xd4\xb7\x8e\xb39'
+2025-09-03 20:55:05,459 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:05,854 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:55:05,856 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:55:05,857 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756904105&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:05,858 INFO     [bilibli.py:225] sign: 89727d68c3a76eec9a10a2511191be5a
+2025-09-03 20:55:05,990 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:05,992 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:05,992 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:55:05,992 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:06,099 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904106}}
+2025-09-03 20:55:06,100 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:55:06,676 INFO     [bilibli.py:43] 当前采用ip：180.110.120.161:40046
+2025-09-03 20:55:06,677 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:55:07,054 INFO     [bilibli.py:245] 当前播放量: 955
+2025-09-03 20:55:07,054 INFO     [bilibli.py:55] did: IGEgEycUIRJQZVBmGmYaexAkUWJQPUQhSA
+2025-09-03 20:55:07,054 INFO     [bilibli.py:79] sign: 45b5d1094171bdca4c6fc5bad4bb8889376dbb9c549400e3fa694437eee6e878
+2025-09-03 20:55:07,058 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@\xdd\xf9\xa3X*\x85%T\x0bg\x13\x9b?\xb5\xe0\x93\x9e\x89\x009\x98\xba\xc9\x9a!\xaf\x9d\xdc\xe3\'\x05])}\x9baco\x1e\xda7\xb3\xaalE\xd8\xd4j\xa7k\x95\x05\x17\x1e3|\xac\x81z\nV\xaaWx ;T8 \xc2\xa8\xc2\x9f\x87\x89\x18\xdaX\xe8VI\x8dB\x172\x0e\xffY\xd8\xd14h\x10\xaf\x88\xc5y`U\xc7\x7f3V\xee\xf8+<]c\xe6\xc0\xeb\x06\xef\xf1yLU\xf48\x93SA\xec\xd1\x1b\xac\xf6(\x08\xf5\x9cC\xb6\t\x8e\x06\xca\xf3\xb4~\xbd9\xbfP\xd9\xf5\x84\xc2Gn\x14\x92V\x876\x0e\xe5!\xbd\x1fW\x7f\xc4\x9av^K\xab\x91B\xd2mz\x8e\xa5"\xbd\xa9uh\xa7&\x9df\xd1\xc4Mu\x1f\xb9:\xd8K\xaaNG\xbc|\xb3S\x95\xd4\xe6\xb1\x0e\x91\x86\x99\xd1\xc0\x88\x86\xcc?\xe0X\xda\x84+\xf9\xb11\x9f\xed\xa3\xf6\xf8\xd2\xe8F\xedT\xdeQ[\x98P{\xf6[`\x9e.\x1d\x89\x17\xea\x11\x92\x91\x87\x10\x18\xcfGX\xf0\xd0\xe0\xc2\xad\x9a\xad_\xe5zR\x81\'\x98\xa1\xcd~\x9a\xac\x93\xfcUW\xefF\xd5\x9c+\x08Z)'
+2025-09-03 20:55:07,700 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:08,305 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:08,306 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:08,306 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:55:08,308 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:09,148 INFO     [bilibli.py:43] 当前采用ip：58.212.155.19:40029
+2025-09-03 20:55:09,150 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:55:09,474 INFO     [bilibli.py:245] 当前播放量: 955
+2025-09-03 20:55:09,474 INFO     [bilibli.py:55] did: Lhtaa18eJxEkF1NiHmIeLFoqW28KfRV7TA
+2025-09-03 20:55:09,474 INFO     [bilibli.py:79] sign: f39db11996bd4e616c1acefa479e8b3a12d38535793ae86e0c0503b55fcff8e7
+2025-09-03 20:55:09,476 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@v\xac/\xbc\xc6\x14Ru\xdf\xa0\x10Y\n\x19\x86\\\xd4K(\xac\xa0S\x91|\xa6u\x86\xa5J\xa8[v\x13\xab\xa3\xad\x18J\xef\xd0\xf9\xb3\x96RI\x19\x13\xbdz\xd4\xd1\xccMy\xac>\x97\x91f\xc3\x0ej\xe9|\xf0\xe3y\xe4y\xfeq\xc7B\xe3\x0b\x06\x08\xd4\xfd \xf3m\xf5kR)\xdf\x1c=\r\xfb\xf6[R\xa6T\xa1\x14)\xae\xdf\x9f\x96\xfbo0\x87\xce\xb5\x7fFkn\'\x82\x9dx\x8b\xf3\xbbD\x96)Q\xad\x8a\x89J\x8e8tM>K\x88\x9e{\xf6x$M\xfd<\xe7#\xffB\xe2\x14\xdfD(D6\x9f\x9d\xa3-K\xdf\x9az\x02\xa1\xecq\x95D\xcf\xd5\xe7k\x87\xcd\x02\x18\xc4\x18\xb7\xdc\xbd\x94\x1e\x96\x1a\x1e\xfb\xdb\xad^\x1bz\xc0;\x05G\xa5\xa2u,\x7f5C3x\xf3\x87\xb6\xef\x1fv\xc2E\xff\xfe\r\xb5\xd5y\xf6@\x97|~\xb6\xe4\xb4\xd5ZX\x83\x99\xddCXY\x0c\x01tp6\x86k\xc3\x8d\x1c\xbf\xa5\x8d\xa6g\xe0l+\xb9\x99\xd4S\\\x19\xc0\x9e$q\x02w\x15\xbb\x1b\xef\xd4\x84\xc7\x80\xe6Os\x81gc\xbc\x97\x88\xb2\xfb\xb6Q\xa7'
+2025-09-03 20:55:10,042 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:55:10,042 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:55:10,044 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756904109&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:10,044 INFO     [bilibli.py:225] sign: bf053a552a83119468ab640e7527e1df
+2025-09-03 20:55:10,656 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904110}}
+2025-09-03 20:55:10,657 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:55:11,474 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:12,070 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:12,070 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:12,072 INFO     [video.py:55] 播放量： 955
+2025-09-03 20:55:12,073 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
+2025-09-03 20:55:12,319 INFO     [bilibli.py:43] 当前采用ip：121.61.194.238:40025
+2025-09-03 20:55:12,320 INFO     [bilibli.py:243] 当前url： https://www.bilibili.com/video/BV1u8a3z5EgK
+2025-09-03 20:55:12,763 INFO     [bilibli.py:245] 当前播放量: 955
+2025-09-03 20:55:12,764 INFO     [bilibli.py:55] did: LGldG1oYXB0qbyoZZRllUWNaNFspSDxFIw
+2025-09-03 20:55:12,765 INFO     [bilibli.py:79] sign: f276d6dcf7c14a49bc4903dc6e5c3bded5ea8dbcca6ae05ab9c50d74079adfb5
+2025-09-03 20:55:12,766 INFO     [bilibli.py:94] params: b'\xdd\xa9A\x8e\x99"\xbc:\xd6C\xbf\x15U\xf7\xbfnV\x9c\xc9t\x9c\x93&\x87d\xd7X\x8c\xfb)\x90\x8d\xbd\xd0\x87$\xa8\xf1\x9f\x19/\xd1Ri\xf7\xafu\\\x8e5\xe3\xcae\xb8\xe4>\x8a-\xa49\xbb\xad>@/\x9b \xcd\xbc\x11N\xf9\xb64q\x90X>0\xee\xb5\x7f\xd6\xad\x95V\xd6\xe0\xdd\xb9S\x01\xf0/\x96kdp\xd9\xe9\xee\t\xed\xab\xabR\xbf\xbcU\xbe\x99\x02\x1f\x83L\x19<\x9dd\xfa\x07]]H#p\x9f(6\x99\x94i\xc1\n*y\xb7\xe9\x97\x98\x10\xff\xe9D3\xe7H\xa2\xeb?K}I\x84O\xd2\xa8(!,\x1c\\-\xf9\xd6\xa2\x7f>\x11\x08\xd5D\xca\x97E\xdb\xc9\x86Y\x9dQg\xf7\x12\x83\xd1\xd3\x91\xad\xed\x8du$\xc4\xb4\xa928\xbf\x8a/\xef\t\xe7\xc1\x03\x96\xac#\xa3\xd3\x87\xa6\xb6\x9f\xcdr\xdf6ag/\xc3&\xcc\t\x0f:\x15\xe2\x8e6k6\xea\xd2s\xb0\xa8a\xa3k\x16\r\xfa\xb1\xda\x0b7\xe3\xc3e8\xac\xf4\x8b:l\x8a\x10\xdf\xabv\x19P\x9d*S\x8f\x84}SC\x17Y\xfew?L\xecU#\xac\x1eYH\xbcU\xfb\x8e\xca\xda\xc7in\\\xaa\x8f\x97\x91fh\xf5\x94\xc0r\xa0\x81\xfa\xcf\xaa\x1dF\'Yed\x9985b\xd0P\x13\xe2S\xe5\xa7\x8ch>flV\xa8\xb0\xb9o\x9eZOA\x86\xd9Nr\x06\xaa\xd5@\xa2z'
+2025-09-03 20:55:13,354 INFO     [bilibli.py:97] resp: {"code":0,"message":"0","ttl":1,"data":null}
+2025-09-03 20:55:13,356 INFO     [bilibli.py:231] session: 700ecdc7288d14dcc3b70bf6af608dddecdf54c4
+2025-09-03 20:55:13,357 INFO     [bilibli.py:215] s: actual_played_time=0&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=0&list_play_time=0&max_play_progress_time=0&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=0&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=0&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=0&ts=1756904112&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:13,358 INFO     [bilibli.py:225] sign: 14f11e97025e7ff3d0a78c15bf093cc0
+2025-09-03 20:55:13,852 INFO     [bilibli.py:234] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904113}}
+2025-09-03 20:55:13,853 INFO     [bilibli.py:236] 当前播放时长： 6 s
+2025-09-03 20:55:14,112 INFO     [bilibli.py:215] s: actual_played_time=9&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=8&list_play_time=0&max_play_progress_time=8&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=9&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756904105&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=9&ts=1756904114&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:14,114 INFO     [bilibli.py:225] sign: 1521f22dac680ab61485058ef8e38acb
+2025-09-03 20:55:14,805 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904105}}
+2025-09-03 20:55:15,116 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:55:15,117 INFO     [bilibli.py:252] 当前播放量: 955
+2025-09-03 20:55:15,118 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:55:21,671 INFO     [bilibli.py:215] s: actual_played_time=12&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=11&list_play_time=0&max_play_progress_time=11&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=12&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756904109&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=12&ts=1756904121&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:21,672 INFO     [bilibli.py:225] sign: bbff19d40eb18498747f03bbba13508d
+2025-09-03 20:55:23,294 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904109}}
+2025-09-03 20:55:23,575 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:55:23,578 INFO     [bilibli.py:252] 当前播放量: 955
+2025-09-03 20:55:23,579 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:55:24,862 INFO     [bilibli.py:215] s: actual_played_time=12&aid=115138560532213&appkey=1d8b6e7d45233436&auto_play=0&build=6240300&c_locale=zh-Hans_CN&channel=xxl_gdt_wm_253&cid=32127453477&epid=0&epid_status=&from=6&from_spmid=tm.recommend.0.0&last_play_progress_time=11&list_play_time=0&max_play_progress_time=11&mid=0&miniplayer_play_time=0&mobi_app=android&network_type=1&paused_time=0&platform=android&play_status=0&play_type=1&played_time=12&quality=64&s_locale=zh-Hans_CN&session=700ecdc7288d14dcc3b70bf6af608dddecdf54c4&sid=0&spmid=main.ugc-video-detail-vertical.0.0&start_ts=1756904112&statistics=%7B%22appId%22%3A1%2C%22platform%22%3A3%2C%22version%22%3A%226.24.0%22%2C%22abtest%22%3A%22%22%7D&sub_type=0&total_time=12&ts=1756904124&type=3&user_status=0&video_duration=6
+2025-09-03 20:55:24,864 INFO     [bilibli.py:225] sign: c2052e211d382e4487f98232171ce8e1
+2025-09-03 20:55:25,863 INFO     [bilibli.py:240] resp: {"code":0,"message":"0","ttl":1,"data":{"ts":1756904112}}
+2025-09-03 20:55:26,145 INFO     [bilibli.py:251] 播放完成
+2025-09-03 20:55:26,145 INFO     [bilibli.py:252] 当前播放量: 968
+2025-09-03 20:55:26,145 INFO     [bilibli.py:253] -----------------------------------------
+2025-09-03 20:55:28,157 INFO     [video.py:29] buvid:BV1u8a3z5EgK
+2025-09-03 20:55:28,740 INFO     [video.py:53] 标题： 把MC服务器变成恐怖游戏需要几步？
+2025-09-03 20:55:28,741 INFO     [video.py:54] 作者： Yuri呗
+2025-09-03 20:55:28,741 INFO     [video.py:55] 播放量： 968
+2025-09-03 20:55:28,743 INFO     [video.py:56] 封面： http://i0.hdslb.com/bfs/archive/82c3631636f0f63fc25e962e0e3638f4b73934ae.jpg
